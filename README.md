@@ -9,15 +9,16 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 * **Result:** The total sales for the entire period were approximately $2.3 million.
 
 **2. Which were the top 5 best-selling product Sub-Categories?**
-* **Result:**
-*
-* | Item    | Amount      |
-|:--------|:------------|
-| Phones  | 327782.448  |
-| Chairs  | 322822.731  |
-| Storage | 219343.392  |
-| Tables  | 202810.628  |
-| Binders | 200028.785  |
+
+* **Result:** The top 5 best-selling sub-categories and their total sales were:
+
+| Item    | Amount        |
+|:--------|:--------------|
+| Phones  | $327,782.45   |
+| Chairs  | $322,822.73   |
+| Storage | $219,343.39   |
+| Tables  | $202,810.63   |
+| Binders | $200,028.79   |
 * **Insight:** The business's revenue is primarily driven by high-ticket items.
 
 **3. Which customer segment is most valuable?**
