@@ -9,11 +9,13 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 * **Result:** The total sales for the entire period were approximately $2.3 million.
 
 **2. Which were the top 5 best-selling product Sub-Categories?**
-* **Result:** [Phones	327782.448
-               Chairs	322822.731
-               Storage	219343.392
-               Tables	202810.628
-               Binders	200028.785]
+* **Result:** | Item    | Amount      |
+              |---------|-------------|
+              | Phones  | 327782.448  |
+              | Chairs  | 322822.731  |
+              | Storage | 219343.392  |
+              | Tables  | 202810.628  |
+              | Binders | 200028.785  |
 * **Insight:** The business's revenue is primarily driven by high-ticket items.
 
 **3. Which customer segment is most valuable?**
@@ -23,7 +25,7 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 **4. How did our sales perform year over year?**
 * **Key Finding:** The business demonstrated healthy and consistent growth, with sales increasing from $484,247 in 2014 to over $733,215 in 2017.
 * **Supporting Visual:**
-    ![Line chart showing sales growth from 2014 to 2017]![sales_over_year](https://github.com/user-attachments/assets/2947e070-6273-4801-be3a-ad8d0d58a769)
+    ![Line chart showing sales growth from 2014 to 2017]![sales_over_year]((https://github.com/user-attachments/assets/86242813-9509-4804-944b-0ec07fc03384))
 
 ---
 
