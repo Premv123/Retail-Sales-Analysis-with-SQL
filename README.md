@@ -10,7 +10,7 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 
 **2. Which were the top 5 best-selling product Sub-Categories?**
 * **Result:** | Item    | Amount      |
-              |---------|-------------|
+              |:---------|:-------------|
               | Phones  | 327782.448  |
               | Chairs  | 322822.731  |
               | Storage | 219343.392  |
@@ -25,8 +25,7 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 **4. How did our sales perform year over year?**
 * **Key Finding:** The business demonstrated healthy and consistent growth, with sales increasing from $484,247 in 2014 to over $733,215 in 2017.
 * **Supporting Visual:**
-    ![Line chart showing sales growth from 2014 to 2017]![sales_over_year]((https://github.com/user-attachments/assets/86242813-9509-4804-944b-0ec07fc03384))
-
+    ![Line chart showing sales growth from 2014 to 2017]![A chart showing sales trends over the years](https://github.com/Premv123/Retail-Sales-Analysis-with-SQL/blob/main/sales_trend.png)
 ---
 
 ### Advanced Analysis
