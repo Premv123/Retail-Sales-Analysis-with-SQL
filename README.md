@@ -10,7 +10,7 @@ I wrote 6 SQL queries to extract key insights from the sales data, progressing f
 
 **2. Which were the top 5 best-selling product Sub-Categories?**
 
-* **Result:** The top 5 best-selling sub-categories and their total sales were:
+* **Result:** 
 
 | Item    | Amount        |
 |:--------|:--------------|
